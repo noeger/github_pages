@@ -2,7 +2,9 @@
 
 
 
+
 ### Writings
+
 
 
 **Law**
@@ -10,6 +12,7 @@
 [The roles of transnational private regulation and EU law in regulating communications networks](https://github.com/noeger/github_pages/blob/gh-pages/Regulating%20Communicaiton%20Networks.pdf) 
 
 [Autonomous targeting algorithms and public information under the General Data Protection Regulation](https://github.com/noeger/github_pages/blob/gh-pages/Autonomous%20targeting%20algorithms%20and%20public%20information%20under%20the%20General%20Data%20Protection%20Regulation.pdf) 
+
 
 **Others**
 
