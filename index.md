@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Noé's GitHub Page
 
-You can use the [editor on GitHub](https://github.com/noeger/github_pages/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Writings
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+**Law**
 
-# Header 1
-## Header 2
-### Header 3
+[The roles of transnational private regulation and EU law in regulating communications networks](https://github.com/noeger/github_pages/blob/gh-pages/Regulating%20Communicaiton%20Networks.pdf) 
 
-- Bulleted
-- List
+[Autonomous targeting algorithms and public information under the General Data Protection Regulation](https://github.com/noeger/github_pages/blob/gh-pages/Autonomous%20targeting%20algorithms%20and%20public%20information%20under%20the%20General%20Data%20Protection%20Regulation.pdf) 
 
-1. Numbered
-2. List
+**Others**
 
-**Bold** and _Italic_ and `Code` text
+[Amazon.com v.s. the Department Stores, a Revolution? - A historical study of the evolution of the universal provider model in the modern era](https://github.com/noeger/github_pages/blob/gh-pages/Amazon.com%20v.s.%20the%20Department%20Stores%2C%20a%20Revolution%3F%20A%20historical%20study%20of%20the%20evolution%20of%20the%20universal%20provider%20model%20in%20the%20modern%20era.pdf)
 
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/noeger/github_pages/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
