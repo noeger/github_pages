@@ -15,7 +15,6 @@
 
 [Amazon.com v.s. the Department Stores, a Revolution? - A historical study of the evolution of the universal provider model in the modern era](https://github.com/noeger/github_pages/blob/gh-pages/Amazon.com%20v.s.%20the%20Department%20Stores%2C%20a%20Revolution%3F%20A%20historical%20study%20of%20the%20evolution%20of%20the%20universal%20provider%20model%20in%20the%20modern%20era.pdf)
 
-```
 
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
