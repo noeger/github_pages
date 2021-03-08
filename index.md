@@ -14,7 +14,7 @@
 
 [Autonomous targeting algorithms and public information under the General Data Protection Regulation](https://github.com/noeger/github_pages/blob/gh-pages/Autonomous%20targeting%20algorithms%20and%20public%20information%20under%20the%20General%20Data%20Protection%20Regulation.pdf) 
 
-[La responsabilité contractuelle et l’implémentation stochastique des algorithmes de classe NP] (https://github.com/noeger/github_pages/blob/gh-pages/resp%20contr%20et%20classe%20np.pdf)
+[La responsabilité contractuelle et l’implémentation stochastique des algorithmes de classe NP](https://github.com/noeger/github_pages/blob/gh-pages/resp%20contr%20et%20classe%20np.pdf)
 
 
 ### Others
