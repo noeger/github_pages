@@ -22,5 +22,5 @@
 [Amazon.com v.s. the Department Stores, a Revolution? - A historical study of the evolution of the universal provider model in the modern era](https://github.com/noeger/github_pages/blob/gh-pages/Amazon.com%20v.s.%20the%20Department%20Stores%2C%20a%20Revolution%3F%20A%20historical%20study%20of%20the%20evolution%20of%20the%20universal%20provider%20model%20in%20the%20modern%20era.pdf)
 
 
-
+[Le « Big Data » et l’évaluation des politiques publiques - Vers des méthodes d’évaluation plus inclusives ?](https://github.com/noeger/github_pages/blob/gh-pages/Le%20Big%20Data%20et%20l%E2%80%99e%CC%81valuation%20des%20politiques%20publiques.pdf)
 
